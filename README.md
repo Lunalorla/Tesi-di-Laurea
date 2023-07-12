@@ -1,5 +1,3 @@
 # Tesi-di-Laurea
 
-Link per tesi scritta con bibliografia: https://it.overleaf.com/read/cyjqsdsfdypw
-
-Repository con file elaborati: https://github.com/pierluigic/italian-wic
+In questo repository sono presenti i documenti, immagini e il codice sorgente utilizzati nel progetto di tesi di laurea di informatica.
